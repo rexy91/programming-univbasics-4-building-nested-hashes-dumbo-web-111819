@@ -75,7 +75,7 @@ def monopoly_with_fourth_tier
       },
       :pennsylvania_railroad=>
       {
-        
+          "mortage_value" => "$200"
       },
       :b_and_o_railroad=>
       {
